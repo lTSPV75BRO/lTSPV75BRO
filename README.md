@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:prajwalvernekar75@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<img alt="Location" src="https://img.shields.io/badge/Pune-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white">
+<a href="https://www.linkedin.com/in/prajwalvernekar75"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:prajwalvernekar75@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<img alt="Location" src="https://img.shields.io/badge/Pune-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white">
 
 </div>
 
